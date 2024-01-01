@@ -1,0 +1,12 @@
+{
+  "name": "amps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+
+  
+  "scripts": {
+    "start": "npm --prefix web start",
+    "postinstall": "npm i --prefix web"
+  }
+}
